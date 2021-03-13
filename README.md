@@ -23,4 +23,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Signing Up and Adding Images:
+<img src='https://github.com/Slizero/Parstagram/blob/main/signupandposting.gif'/>
+
+Signing In and Viewing All Posts:
+<img src='https://github.com/Slizero/Parstagram/blob/main/signin.gif' />
