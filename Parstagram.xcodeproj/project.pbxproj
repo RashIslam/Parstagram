@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		169C68FFDB040628167E36D6 /* Pods_Parstagram_ParstagramUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3394FF692BE145F552D9CBBE /* Pods_Parstagram_ParstagramUITests.framework */; };
+		2A2861C826059EC6009E0401 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2861C726059EC6009E0401 /* CommentCell.swift */; };
 		2A29A76625FC63A7001AE0ED /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A29A76525FC63A7001AE0ED /* AppDelegate.swift */; };
 		2A29A76825FC63A7001AE0ED /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A29A76725FC63A7001AE0ED /* SceneDelegate.swift */; };
 		2A29A76D25FC63A7001AE0ED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A29A76B25FC63A7001AE0ED /* Main.storyboard */; };
@@ -43,6 +44,7 @@
 /* Begin PBXFileReference section */
 		18790A1B85AC788CA4A9E7DE /* Pods-ParstagramTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ParstagramTests.debug.xcconfig"; path = "Target Support Files/Pods-ParstagramTests/Pods-ParstagramTests.debug.xcconfig"; sourceTree = "<group>"; };
 		27C75C5D9645A484C8ED79B0 /* Pods-Parstagram.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Parstagram.release.xcconfig"; path = "Target Support Files/Pods-Parstagram/Pods-Parstagram.release.xcconfig"; sourceTree = "<group>"; };
+		2A2861C726059EC6009E0401 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		2A29A76225FC63A7001AE0ED /* Parstagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Parstagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A29A76525FC63A7001AE0ED /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2A29A76725FC63A7001AE0ED /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -132,6 +134,7 @@
 				2A458AB925FC66E500D141B8 /* FeedViewController.swift */,
 				2A458AC125FC703300D141B8 /* CameraViewController.swift */,
 				2ABE5F9625FC7AAE00B64E29 /* PostCell.swift */,
+				2A2861C726059EC6009E0401 /* CommentCell.swift */,
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
@@ -421,6 +424,7 @@
 				2A458ABA25FC66E500D141B8 /* FeedViewController.swift in Sources */,
 				2A29A76825FC63A7001AE0ED /* SceneDelegate.swift in Sources */,
 				2ABE5F9725FC7AAE00B64E29 /* PostCell.swift in Sources */,
+				2A2861C826059EC6009E0401 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
